@@ -1,4 +1,4 @@
-# Python Programs Repository
+# 💻 Python Programs Repository
 
 Hi! I am a B.Tech Data Science student. This repository contains basic Python programs created for practice and improving programming logic.
 
